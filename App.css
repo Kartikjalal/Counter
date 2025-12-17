@@ -1,0 +1,22 @@
+*{
+  color: black;
+}
+
+button{
+  color: black;
+  padding: 30px;
+  border: solid black 5px;
+  border-spacing: 10px;
+}
+
+#box{
+  background-color: green;
+  border: 5px solid red;
+  align-items: center;
+  text-align: center;
+  border-radius: 8px;
+}
+
+#decrease{
+ background-color: red;
+}
